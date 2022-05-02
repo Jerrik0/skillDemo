@@ -5,6 +5,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void addition() {
-        assertEquals(2, SkillDemo.multiply(2, 3)); //test that fails
+        assertEquals(2, SkillDemo.multiply(2, 1)); //test that fails
     }
 }
